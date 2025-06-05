@@ -31,10 +31,3 @@ npm start
 http://localhost:3000
 
 
-Stack utilisée
- React
-
- React Router DOM
-
- Bootstrap
-
