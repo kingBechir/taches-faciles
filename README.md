@@ -1,13 +1,29 @@
-# Taches Faciles
+#  TâchesFaciles
 
-**Taches Faciles** est une application conçue pour simplifier la gestion et le suivi de vos tâches quotidiennes. Elle permet d’ajouter, modifier, supprimer et organiser facilement vos tâches afin d’améliorer votre productivité.
+Application simple de gestion de tâches avec React Router.
 
-## Fonctionnalités principales
+---
 
-- Ajout et suppression de tâches
-- Organisation par priorité ou catégorie
-- Interface simple et intuitive
+##  Fonctionnalités
 
-## Installation
+ Affichage d'une liste statique de tâches
+ Détail de chaque tâche accessible via une URL dynamique
+ Message d’erreur si la tâche n’existe pas
+ Interface responsive grâce à Bootstrap
 
-Clonez ce dépôt puis suivez les instructions dans la documentation pour démarrer rapidement.
+---
+
+##  Démarrage rapide
+
+### Prérequis
+
+- Node.js ≥ 14
+- npm
+
+### Installation
+
+```bash
+git clone https://github.com/kingBechir/taches-faciles.git
+cd taches-faciles
+npm install
+npm start
