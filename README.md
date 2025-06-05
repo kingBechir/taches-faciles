@@ -27,3 +27,14 @@ git clone https://github.com/kingBechir/taches-faciles.git
 cd taches-faciles
 npm install
 npm start
+
+http://localhost:3000
+
+
+Stack utilisée
+ React
+
+ React Router DOM
+
+ Bootstrap
+
