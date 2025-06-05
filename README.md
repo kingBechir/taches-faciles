@@ -22,11 +22,6 @@ Application simple de gestion de tâches avec React Router.
 
 ### Installation
 
-```bash
-git clone https://github.com/kingBechir/taches-faciles.git
-cd taches-faciles
-npm install
-npm start
 
 http://localhost:3000
 
